@@ -136,6 +136,9 @@ export default {
         '.backface-hidden': {
           backfaceVisibility: 'hidden',
         },
+        '.rotate-x-2': {
+          transform: 'rotateX(2deg)',
+        },
         '.rotate-x-12': {
           transform: 'rotateX(12deg)',
         },
@@ -147,6 +150,9 @@ export default {
         },
         '.rotate-y-45': {
           transform: 'rotateY(45deg)',
+        },
+        '.rotate-y-180': {
+          transform: 'rotateY(180deg)',
         },
         '.translate-z-12': {
           transform: 'translateZ(12px)',
